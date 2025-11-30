@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Ojo Electrónico",
+  "description": "Asistente de visión artificial en tiempo real para personas con discapacidad visual. Utiliza IA para describir el entorno y leer textos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
